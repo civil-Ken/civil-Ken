@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi there, I'm Ken! 👋
   🔭 I'm currently working on Earthquake Prediction Model with Machine Learning<br>  📗  I'm currently learning more about Programming and machine learning.<br>   🕶 I'm looking to collaborate and make contributions on github.<br>  🧱 I'm looking to pursue my graduate program in civil engineering.<br>  🎢 Ask me about geotechnical engineering or any related civil engineering stuff.<br>  🔗 How to reach me: linkedIn- www.linkedin.com/in/tochukwu-eze<br>  😎 Pronouns: He/His<br>  ⚡  Main fact: I spend almost 10 hours learning new stuffs every day.
 
 
